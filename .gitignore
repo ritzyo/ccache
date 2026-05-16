@@ -1,2 +1,5 @@
 *.o
 *.d
+
+# target binaries
+ccache
